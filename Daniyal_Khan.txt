@@ -1,0 +1,3 @@
+programming language: Java/Python
+
+most like to learn: get better at SQL
