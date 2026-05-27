@@ -1,0 +1,1 @@
+I am probably most comfortable in Java but I think for my personal projects I have mainly used Python. The technology that I want to learn the most at the moment is Kubernetes as I like Docker stuff and distributed computing seems interesting. 
