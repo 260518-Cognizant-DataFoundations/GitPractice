@@ -1,0 +1,3 @@
+My most comfy language is Java and Python.
+
+I hope to learn some great new things in Python and SQL and new tools like Kafka
