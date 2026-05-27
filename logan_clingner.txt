@@ -1,0 +1,3 @@
+The programming language I am most comfortable with is either C++ or Python.
+
+The tech I would most like to learn is PySpark in the second half of the curriculum.
